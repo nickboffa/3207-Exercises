@@ -1,0 +1,2 @@
+# 3207-Exercises
+Week 3: Version Control exercises for BIOL3207 at ANU
